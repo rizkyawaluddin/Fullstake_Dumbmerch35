@@ -1,0 +1,9 @@
+.navbar{
+    height: 10vh;   
+}
+
+@media only screen and (max-width:768px) {
+    .navbar {
+        height: auto;
+    }
+}

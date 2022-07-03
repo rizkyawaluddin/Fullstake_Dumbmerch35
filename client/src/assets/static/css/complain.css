@@ -1,0 +1,25 @@
+.polygon-icon{
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+
+.chat-span{
+  max-width: 60%;
+  text-align:start;
+  color: white !important;
+}
+
+.container-chat{
+  height: 75vh;
+  overflow-y: auto;
+}
+
+.chat-overflow{
+  display: flex;
+  align-items:flex-end;
+}
+
+@media only screen and (max-width:768px) {
+
+}
